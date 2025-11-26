@@ -1,0 +1,24 @@
+import pandas as pd
+
+file_path = "/Users/dheerajkoushik/Downloads/food_delivery_sample.csv"
+df = pd.read_csv(file_path)
+
+print(df.head())
+print(df.info())
+
+#Basic understanding of dataset
+df.head()
+df.info()
+df.describe()
+df.isnull().sum()
+df.duplicated().sum()
+
+#If duplicates exist
+df = df.drop_duplicates()
+
+#Convert date column to datetime:
+df['Order_Date'] = pd.to_datetime(df['Order_Date'])
+
+#Create calculated column: total time
+df['Total_Time_mins'] = df['Preparation_Time_mins'] + df['Delivery_Time_mins']
+
