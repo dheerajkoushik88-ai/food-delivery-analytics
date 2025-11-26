@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Customer_ID,Restaurant,Food_Category,Preparation_Time_mins,Delivery_Time_mins,Delivery_Person_Rating,Delivery_Fee,Mode_of_Payment,Order_Amount,Location,Customer_Type
+ORD1000,2024-02-21,CUST110,Dragon Wok,South Indian,33,32,4.6,38,UPI,860,West Zone,New
+ORD1001,2024-01-15,CUST284,Burger Town,Biryani,36,39,4.6,76,Debit Card,292,South Zone,New
+ORD1002,2024-03-12,CUST277,Dragon Wok,Burgers,22,47,4.9,24,Credit Card,754,East Zone,Repeat
+ORD1003,2024-03-01,CUST250,Pizza Planet,Chinese,15,54,2.9,22,UPI,622,East Zone,New
+ORD1004,2024-01-21,CUST258,Pizza Planet,Healthy Bowl,14,57,4.1,78,Cash on Delivery,566,West Zone,New
+ORD1005,2024-03-23,CUST141,Burger Town,Biryani,34,26,3.7,20,Debit Card,454,Central,Repeat
+ORD1006,2024-03-27,CUST198,Dragon Wok,Biryani,10,58,3.4,77,UPI,885,West Zone,New
+ORD1007,2024-03-15,CUST106,Spice Hub,Biryani,30,50,3.4,79,Credit Card,646,South Zone,Repeat
+ORD1008,2024-03-15,CUST243,Healthy Bite,South Indian,31,18,3.5,57,UPI,440,West Zone,New
+ORD1009,2024-03-28,CUST189,Healthy Bite,Burgers,30,19,4.3,34,Credit Card,251,North Zone,Repeat
+ORD1010,2024-01-24,CUST211,Burger Town,South Indian,15,51,4.0,53,Cash on Delivery,416,South Zone,New
+ORD1011,2024-01-03,CUST159,Pizza Planet,Burgers,15,22,3.6,54,Debit Card,771,South Zone,New
+ORD1012,2024-01-22,CUST212,Pizza Planet,South Indian,32,56,2.7,68,Debit Card,152,Central,New
+ORD1013,2024-02-22,CUST101,Healthy Bite,South Indian,25,42,2.7,44,Debit Card,234,East Zone,New
+ORD1014,2024-01-02,CUST228,Burger Town,Healthy Bowl,13,45,2.5,43,Cash on Delivery,477,South Zone,Repeat
+ORD1015,2024-03-28,CUST147,Dragon Wok,Chinese,39,23,4.9,31,Credit Card,599,East Zone,Repeat
+ORD1016,2024-01-30,CUST239,Pizza Planet,South Indian,20,43,2.5,37,Cash on Delivery,603,West Zone,Repeat
+ORD1017,2024-02-07,CUST296,Dragon Wok,Healthy Bowl,39,28,2.8,34,Debit Card,778,North Zone,New
+ORD1018,2024-01-02,CUST136,Pizza Planet,Pizza,39,54,3.3,63,Cash on Delivery,370,Central,New
+ORD1019,2024-03-04,CUST259,Pizza Planet,Chinese,39,55,4.5,35,Cash on Delivery,303,East Zone,New
+ORD1020,2024-02-29,CUST108,Biryani House,South Indian,33,36,4.9,46,Cash on Delivery,814,South Zone,New
+ORD1021,2024-01-21,CUST198,Pizza Planet,Biryani,32,25,4.5,27,Credit Card,161,East Zone,Repeat
+ORD1022,2024-02-02,CUST246,Spice Hub,Pizza,18,37,4.2,79,UPI,282,South Zone,New
+ORD1023,2024-03-16,CUST147,Burger Town,Pizza,32,15,3.8,65,UPI,453,East Zone,New
+ORD1024,2024-02-27,CUST230,Burger Town,Healthy Bowl,12,51,2.7,44,Cash on Delivery,442,South Zone,New
+ORD1025,2024-01-22,CUST247,Dragon Wok,Pizza,28,35,4.9,36,UPI,449,West Zone,Repeat
+ORD1026,2024-03-29,CUST251,Pizza Planet,Chinese,17,40,4.4,48,UPI,889,South Zone,Repeat
+ORD1027,2024-02-18,CUST153,Spice Hub,South Indian,14,50,4.1,72,Cash on Delivery,192,South Zone,Repeat
+ORD1028,2024-02-28,CUST219,Dragon Wok,South Indian,13,37,4.4,27,Cash on Delivery,492,North Zone,New
+ORD1029,2024-02-11,CUST260,Biryani House,Biryani,33,15,4.3,34,Debit Card,475,South Zone,New
+ORD1030,2024-02-29,CUST251,Dragon Wok,Healthy Bowl,15,54,4.1,46,UPI,647,North Zone,Repeat
+ORD1031,2024-03-20,CUST215,Dragon Wok,Biryani,11,29,5.0,65,Credit Card,513,Central,Repeat
+ORD1032,2024-01-15,CUST174,Pizza Planet,Pizza,29,35,4.8,69,Cash on Delivery,576,North Zone,New
+ORD1033,2024-03-02,CUST212,Biryani House,Biryani,37,23,4.1,71,Debit Card,170,West Zone,Repeat
+ORD1034,2024-03-02,CUST299,Dragon Wok,Chinese,20,23,4.2,26,Credit Card,556,North Zone,Repeat
+ORD1035,2024-02-16,CUST263,Spice Hub,South Indian,13,24,2.6,22,UPI,768,Central,Repeat
+ORD1036,2024-03-02,CUST265,Spice Hub,Pizza,24,40,4.2,48,Debit Card,485,West Zone,Repeat
+ORD1037,2024-02-20,CUST203,Burger Town,Biryani,15,55,2.6,63,Cash on Delivery,266,East Zone,New
+ORD1038,2024-02-24,CUST183,Biryani House,Healthy Bowl,31,49,4.0,72,Credit Card,273,East Zone,New
+ORD1039,2024-03-04,CUST211,Biryani House,Chinese,26,39,5.0,43,Cash on Delivery,548,North Zone,New
+ORD1040,2024-01-03,CUST198,Burger Town,Chinese,39,40,3.9,79,UPI,864,North Zone,Repeat
+ORD1041,2024-02-20,CUST252,Dragon Wok,Biryani,33,25,3.7,77,Credit Card,200,Central,Repeat
+ORD1042,2024-01-07,CUST192,Biryani House,South Indian,15,52,3.3,22,UPI,473,Central,Repeat
+ORD1043,2024-01-21,CUST245,Spice Hub,Biryani,28,16,2.8,39,UPI,290,South Zone,New
+ORD1044,2024-03-13,CUST227,Spice Hub,Pizza,39,21,4.3,65,Debit Card,619,Central,Repeat
+ORD1045,2024-02-08,CUST209,Pizza Planet,Biryani,34,32,3.0,34,Cash on Delivery,483,South Zone,Repeat
+ORD1046,2024-01-18,CUST181,Biryani House,Chinese,11,41,2.8,44,Credit Card,522,West Zone,Repeat
+ORD1047,2024-01-04,CUST293,Dragon Wok,Biryani,24,48,3.6,49,UPI,713,North Zone,Repeat
+ORD1048,2024-03-29,CUST153,Burger Town,South Indian,20,41,4.5,33,UPI,643,West Zone,Repeat
+ORD1049,2024-02-29,CUST262,Burger Town,Healthy Bowl,17,31,4.4,26,Credit Card,688,Central,New
+ORD1050,2024-01-14,CUST288,Dragon Wok,Burgers,35,57,2.6,36,UPI,818,West Zone,New
+ORD1051,2024-01-09,CUST268,Healthy Bite,Biryani,28,58,3.6,63,Debit Card,305,West Zone,New
+ORD1052,2024-03-30,CUST260,Pizza Planet,South Indian,22,38,3.8,39,Debit Card,440,West Zone,New
+ORD1053,2024-02-22,CUST167,Burger Town,South Indian,21,39,4.1,55,Debit Card,797,Central,Repeat
+ORD1054,2024-01-02,CUST132,Biryani House,Healthy Bowl,14,21,4.1,28,Debit Card,293,West Zone,Repeat
+ORD1055,2024-03-24,CUST241,Pizza Planet,Chinese,15,20,3.4,57,UPI,255,South Zone,New
+ORD1056,2024-02-29,CUST120,Biryani House,South Indian,35,38,3.9,67,Credit Card,569,Central,New
+ORD1057,2024-03-11,CUST147,Spice Hub,South Indian,31,47,3.7,76,Credit Card,819,West Zone,Repeat
+ORD1058,2024-02-13,CUST247,Pizza Planet,South Indian,13,43,4.7,79,Credit Card,807,Central,New
+ORD1059,2024-01-08,CUST227,Burger Town,South Indian,28,57,3.8,41,Credit Card,151,East Zone,New
+ORD1060,2024-02-16,CUST235,Pizza Planet,Pizza,29,36,3.6,73,Cash on Delivery,738,South Zone,New
+ORD1061,2024-02-04,CUST234,Pizza Planet,Pizza,10,40,3.5,72,Credit Card,793,West Zone,New
+ORD1062,2024-03-18,CUST294,Pizza Planet,Chinese,29,42,3.9,72,Cash on Delivery,239,East Zone,New
+ORD1063,2024-03-21,CUST244,Healthy Bite,Biryani,26,35,4.5,21,Cash on Delivery,494,East Zone,New
+ORD1064,2024-02-05,CUST227,Pizza Planet,South Indian,21,21,3.8,43,Debit Card,499,Central,New
+ORD1065,2024-02-19,CUST132,Biryani House,Healthy Bowl,24,31,4.2,27,Cash on Delivery,608,East Zone,Repeat
+ORD1066,2024-01-04,CUST275,Spice Hub,Biryani,10,34,4.3,30,UPI,412,South Zone,New
+ORD1067,2024-01-02,CUST286,Dragon Wok,Healthy Bowl,35,55,3.8,32,Cash on Delivery,500,South Zone,Repeat
+ORD1068,2024-01-06,CUST214,Pizza Planet,Biryani,23,34,3.6,36,Debit Card,257,North Zone,New
+ORD1069,2024-02-23,CUST218,Burger Town,Chinese,15,36,4.7,27,Cash on Delivery,735,South Zone,New
+ORD1070,2024-01-04,CUST121,Pizza Planet,South Indian,14,42,3.5,40,UPI,188,East Zone,Repeat
+ORD1071,2024-02-23,CUST257,Burger Town,South Indian,39,54,3.7,37,UPI,308,South Zone,New
+ORD1072,2024-03-03,CUST137,Biryani House,Burgers,20,21,5.0,49,UPI,732,Central,New
+ORD1073,2024-01-18,CUST208,Burger Town,Healthy Bowl,13,15,2.5,37,Debit Card,461,North Zone,New
+ORD1074,2024-03-30,CUST150,Dragon Wok,Biryani,22,46,3.0,65,Debit Card,390,East Zone,Repeat
+ORD1075,2024-02-13,CUST281,Spice Hub,Biryani,20,27,3.5,66,Credit Card,594,North Zone,New
+ORD1076,2024-02-03,CUST107,Burger Town,Pizza,12,44,4.8,50,Debit Card,447,East Zone,New
+ORD1077,2024-03-14,CUST126,Burger Town,Burgers,10,37,2.7,57,UPI,185,Central,Repeat
+ORD1078,2024-03-02,CUST126,Spice Hub,Pizza,15,33,2.5,51,UPI,233,North Zone,New
+ORD1079,2024-01-14,CUST120,Dragon Wok,Pizza,27,46,2.6,30,Debit Card,601,West Zone,Repeat
+ORD1080,2024-02-17,CUST129,Pizza Planet,Pizza,33,44,2.7,64,Cash on Delivery,534,East Zone,Repeat
+ORD1081,2024-01-15,CUST196,Burger Town,Healthy Bowl,19,43,2.6,44,Debit Card,321,West Zone,Repeat
+ORD1082,2024-03-12,CUST127,Spice Hub,Healthy Bowl,14,59,3.7,52,Debit Card,525,North Zone,New
+ORD1083,2024-03-18,CUST210,Biryani House,Chinese,32,43,4.0,79,UPI,834,West Zone,Repeat
+ORD1084,2024-03-27,CUST291,Spice Hub,Chinese,19,44,3.2,57,Credit Card,511,West Zone,New
+ORD1085,2024-03-02,CUST296,Biryani House,Pizza,21,30,3.5,60,UPI,708,North Zone,New
+ORD1086,2024-02-09,CUST160,Dragon Wok,Burgers,11,54,2.7,27,Credit Card,290,Central,New
+ORD1087,2024-03-25,CUST147,Pizza Planet,Biryani,22,33,3.3,30,UPI,267,West Zone,Repeat
+ORD1088,2024-03-20,CUST246,Spice Hub,Healthy Bowl,17,32,3.8,41,Debit Card,426,West Zone,New
+ORD1089,2024-03-22,CUST103,Healthy Bite,Burgers,11,15,4.3,70,UPI,875,Central,New
+ORD1090,2024-02-22,CUST134,Burger Town,South Indian,29,28,2.5,43,UPI,369,West Zone,New
+ORD1091,2024-01-24,CUST291,Dragon Wok,Healthy Bowl,10,16,3.7,60,UPI,175,West Zone,Repeat
+ORD1092,2024-01-26,CUST148,Spice Hub,Healthy Bowl,14,42,3.2,36,Debit Card,670,West Zone,Repeat
+ORD1093,2024-03-29,CUST116,Burger Town,Chinese,18,44,4.6,31,Debit Card,159,South Zone,Repeat
+ORD1094,2024-02-29,CUST271,Spice Hub,Biryani,26,52,4.3,76,Debit Card,527,Central,New
+ORD1095,2024-02-10,CUST257,Biryani House,Biryani,18,18,4.0,65,Debit Card,782,West Zone,New
+ORD1096,2024-01-29,CUST145,Spice Hub,South Indian,20,15,3.2,51,Credit Card,786,Central,Repeat
+ORD1097,2024-01-15,CUST216,Healthy Bite,South Indian,24,22,4.8,34,Credit Card,831,East Zone,New
+ORD1098,2024-02-14,CUST105,Spice Hub,Healthy Bowl,33,43,2.6,35,Cash on Delivery,733,East Zone,New
+ORD1099,2024-03-05,CUST198,Spice Hub,Pizza,15,53,2.8,73,Debit Card,301,West Zone,Repeat
+ORD1100,2024-03-29,CUST223,Healthy Bite,Chinese,32,17,3.5,41,Credit Card,869,Central,Repeat
+ORD1101,2024-03-11,CUST136,Dragon Wok,Chinese,12,46,2.8,47,UPI,198,Central,Repeat
+ORD1102,2024-01-09,CUST123,Spice Hub,Healthy Bowl,39,24,4.9,39,Debit Card,303,Central,Repeat
+ORD1103,2024-03-28,CUST192,Healthy Bite,Burgers,26,24,4.5,52,Cash on Delivery,442,South Zone,Repeat
+ORD1104,2024-01-01,CUST145,Burger Town,Pizza,14,33,3.1,29,Cash on Delivery,729,East Zone,New
+ORD1105,2024-01-08,CUST280,Biryani House,Healthy Bowl,39,48,4.0,59,Cash on Delivery,199,Central,New
+ORD1106,2024-03-28,CUST194,Biryani House,Pizza,37,47,5.0,51,UPI,813,Central,Repeat
+ORD1107,2024-03-03,CUST198,Spice Hub,Pizza,21,37,4.7,69,Credit Card,680,South Zone,New
+ORD1108,2024-01-11,CUST287,Dragon Wok,Pizza,27,42,4.0,79,UPI,761,South Zone,Repeat
+ORD1109,2024-03-21,CUST215,Dragon Wok,Healthy Bowl,23,46,4.8,52,Debit Card,209,Central,New
+ORD1110,2024-01-08,CUST290,Burger Town,Chinese,30,21,5.0,21,Cash on Delivery,316,North Zone,New
+ORD1111,2024-02-04,CUST259,Spice Hub,Chinese,33,43,4.4,52,UPI,351,Central,Repeat
+ORD1112,2024-02-04,CUST260,Biryani House,Pizza,20,22,2.7,52,UPI,295,Central,Repeat
+ORD1113,2024-02-02,CUST166,Dragon Wok,Burgers,18,15,3.5,60,Credit Card,825,South Zone,Repeat
+ORD1114,2024-01-05,CUST227,Spice Hub,Biryani,11,17,4.6,32,Credit Card,588,South Zone,New
+ORD1115,2024-02-10,CUST117,Dragon Wok,Healthy Bowl,21,38,3.1,49,Cash on Delivery,391,Central,Repeat
+ORD1116,2024-01-28,CUST124,Healthy Bite,Biryani,12,37,4.6,52,UPI,730,Central,New
+ORD1117,2024-01-07,CUST153,Dragon Wok,Burgers,12,22,2.8,32,UPI,836,Central,New
+ORD1118,2024-03-13,CUST157,Biryani House,Healthy Bowl,10,51,2.6,71,Credit Card,710,South Zone,New
+ORD1119,2024-03-12,CUST166,Pizza Planet,Pizza,17,17,3.5,45,UPI,632,Central,New
+ORD1120,2024-01-12,CUST203,Burger Town,Chinese,31,47,2.6,41,UPI,257,Central,New
+ORD1121,2024-02-03,CUST273,Burger Town,Biryani,37,42,4.9,58,UPI,375,West Zone,Repeat
+ORD1122,2024-02-02,CUST123,Biryani House,South Indian,38,22,4.6,21,Credit Card,822,North Zone,Repeat
+ORD1123,2024-02-17,CUST213,Dragon Wok,South Indian,17,48,4.5,57,Cash on Delivery,780,East Zone,Repeat
+ORD1124,2024-01-23,CUST131,Spice Hub,Burgers,20,49,4.1,58,Debit Card,810,North Zone,New
+ORD1125,2024-03-02,CUST274,Dragon Wok,Pizza,18,46,3.0,45,Cash on Delivery,811,West Zone,Repeat
+ORD1126,2024-03-28,CUST185,Biryani House,Biryani,14,38,3.8,65,Debit Card,581,East Zone,Repeat
+ORD1127,2024-02-06,CUST250,Burger Town,Pizza,23,28,4.0,77,UPI,804,Central,Repeat
+ORD1128,2024-02-13,CUST293,Dragon Wok,Biryani,37,46,3.8,69,Cash on Delivery,568,West Zone,New
+ORD1129,2024-03-26,CUST226,Burger Town,Burgers,39,57,3.2,34,Debit Card,604,Central,New
+ORD1130,2024-02-04,CUST254,Spice Hub,Burgers,12,30,3.8,53,Credit Card,309,South Zone,New
+ORD1131,2024-03-05,CUST229,Burger Town,South Indian,30,18,3.7,61,Credit Card,672,West Zone,New
+ORD1132,2024-02-16,CUST116,Burger Town,Pizza,14,51,5.0,74,Cash on Delivery,799,South Zone,New
+ORD1133,2024-03-18,CUST203,Pizza Planet,Healthy Bowl,14,35,4.7,63,Cash on Delivery,739,West Zone,Repeat
+ORD1134,2024-01-03,CUST260,Pizza Planet,South Indian,28,28,3.7,68,UPI,226,West Zone,New
+ORD1135,2024-01-01,CUST236,Healthy Bite,Pizza,36,45,4.1,59,Cash on Delivery,658,South Zone,New
+ORD1136,2024-01-05,CUST142,Pizza Planet,South Indian,23,32,4.4,30,UPI,590,East Zone,New
+ORD1137,2024-03-30,CUST275,Burger Town,Healthy Bowl,35,21,2.6,22,UPI,403,North Zone,New
+ORD1138,2024-01-14,CUST138,Biryani House,Chinese,39,24,4.7,78,Credit Card,469,Central,New
+ORD1139,2024-01-27,CUST269,Burger Town,Chinese,13,21,4.7,25,Credit Card,412,West Zone,New
+ORD1140,2024-01-09,CUST125,Biryani House,Chinese,34,47,3.6,28,Debit Card,746,Central,New
+ORD1141,2024-03-19,CUST198,Biryani House,Chinese,22,37,3.5,25,Credit Card,807,South Zone,Repeat
+ORD1142,2024-01-15,CUST149,Pizza Planet,Biryani,19,35,3.2,28,Credit Card,703,Central,Repeat
+ORD1143,2024-03-30,CUST252,Dragon Wok,Chinese,34,33,3.7,58,Cash on Delivery,523,South Zone,New
+ORD1144,2024-02-11,CUST251,Spice Hub,Healthy Bowl,27,33,2.6,50,Credit Card,786,Central,New
+ORD1145,2024-03-17,CUST112,Pizza Planet,Burgers,17,50,4.6,51,Debit Card,316,North Zone,Repeat
+ORD1146,2024-02-20,CUST159,Pizza Planet,Burgers,17,43,2.6,60,Cash on Delivery,608,North Zone,New
+ORD1147,2024-03-03,CUST234,Dragon Wok,Biryani,16,32,3.3,69,Debit Card,429,North Zone,New
+ORD1148,2024-02-21,CUST156,Spice Hub,Chinese,17,16,4.8,31,Credit Card,849,North Zone,Repeat
+ORD1149,2024-01-04,CUST135,Burger Town,Chinese,23,15,4.3,27,Debit Card,451,North Zone,New
+ORD1150,2024-01-23,CUST272,Healthy Bite,Chinese,28,19,3.2,27,Cash on Delivery,680,North Zone,Repeat
+ORD1151,2024-01-15,CUST119,Healthy Bite,South Indian,38,34,3.1,69,UPI,729,South Zone,New
+ORD1152,2024-02-12,CUST164,Burger Town,Pizza,15,25,2.5,47,Debit Card,367,West Zone,New
+ORD1153,2024-01-29,CUST107,Pizza Planet,South Indian,10,56,4.2,39,Debit Card,251,Central,New
+ORD1154,2024-02-05,CUST243,Spice Hub,Pizza,32,16,2.6,66,Cash on Delivery,703,North Zone,Repeat
+ORD1155,2024-01-13,CUST241,Pizza Planet,Chinese,24,17,3.8,78,Cash on Delivery,437,South Zone,New
+ORD1156,2024-02-01,CUST214,Biryani House,Chinese,10,37,4.9,26,Debit Card,316,South Zone,New
+ORD1157,2024-03-11,CUST242,Pizza Planet,South Indian,34,26,2.8,30,Credit Card,770,South Zone,Repeat
+ORD1158,2024-02-28,CUST191,Pizza Planet,South Indian,26,34,4.7,39,Debit Card,185,West Zone,New
+ORD1159,2024-03-26,CUST197,Burger Town,Pizza,10,19,5.0,35,Cash on Delivery,893,Central,New
+ORD1160,2024-01-28,CUST165,Burger Town,Burgers,24,51,2.7,23,UPI,890,West Zone,Repeat
+ORD1161,2024-03-06,CUST131,Burger Town,Pizza,32,52,4.7,25,UPI,502,East Zone,New
+ORD1162,2024-02-11,CUST290,Healthy Bite,South Indian,11,44,3.8,77,Credit Card,825,South Zone,Repeat
+ORD1163,2024-02-14,CUST185,Biryani House,Healthy Bowl,23,23,4.8,41,Debit Card,222,East Zone,Repeat
+ORD1164,2024-03-02,CUST150,Burger Town,South Indian,30,48,3.9,45,UPI,797,North Zone,Repeat
+ORD1165,2024-02-26,CUST252,Spice Hub,Healthy Bowl,17,58,4.2,22,Debit Card,502,North Zone,New
+ORD1166,2024-01-06,CUST285,Healthy Bite,Biryani,17,49,3.9,60,Cash on Delivery,219,West Zone,Repeat
+ORD1167,2024-01-28,CUST162,Dragon Wok,South Indian,28,36,4.7,79,UPI,574,Central,New
+ORD1168,2024-01-28,CUST289,Spice Hub,Biryani,16,58,4.3,61,Credit Card,857,East Zone,Repeat
+ORD1169,2024-02-13,CUST224,Spice Hub,Burgers,28,38,3.8,33,Cash on Delivery,710,Central,New
+ORD1170,2024-03-24,CUST249,Burger Town,Pizza,15,31,4.7,30,Credit Card,791,West Zone,New
+ORD1171,2024-01-30,CUST157,Dragon Wok,Healthy Bowl,15,24,3.1,37,Cash on Delivery,666,North Zone,New
+ORD1172,2024-03-02,CUST157,Dragon Wok,Pizza,12,44,2.9,73,UPI,577,Central,Repeat
+ORD1173,2024-03-15,CUST185,Healthy Bite,Biryani,16,37,2.9,31,Credit Card,688,Central,Repeat
+ORD1174,2024-03-29,CUST148,Dragon Wok,Healthy Bowl,28,46,3.3,42,Credit Card,309,North Zone,New
+ORD1175,2024-03-02,CUST279,Biryani House,Pizza,17,31,3.1,31,Cash on Delivery,298,East Zone,New
+ORD1176,2024-01-01,CUST269,Burger Town,South Indian,19,31,4.8,32,Credit Card,379,North Zone,Repeat
+ORD1177,2024-01-27,CUST169,Dragon Wok,Chinese,29,28,2.8,44,Cash on Delivery,861,Central,New
+ORD1178,2024-03-02,CUST114,Healthy Bite,Biryani,24,23,4.2,64,Cash on Delivery,711,East Zone,New
+ORD1179,2024-03-17,CUST153,Biryani House,Pizza,24,54,3.0,70,Cash on Delivery,216,East Zone,Repeat
+ORD1180,2024-01-03,CUST287,Pizza Planet,Biryani,38,16,4.7,77,Cash on Delivery,530,North Zone,New
+ORD1181,2024-03-10,CUST200,Pizza Planet,Biryani,10,59,4.9,38,UPI,207,Central,Repeat
+ORD1182,2024-03-12,CUST107,Biryani House,Healthy Bowl,29,39,3.7,74,Cash on Delivery,408,West Zone,New
+ORD1183,2024-01-27,CUST152,Healthy Bite,Healthy Bowl,39,53,4.7,65,Debit Card,491,Central,New
+ORD1184,2024-01-09,CUST159,Biryani House,Chinese,16,23,2.5,55,Credit Card,279,South Zone,New
+ORD1185,2024-03-02,CUST207,Burger Town,South Indian,36,36,4.5,64,Debit Card,876,West Zone,Repeat
+ORD1186,2024-02-06,CUST104,Burger Town,Biryani,13,57,3.1,27,UPI,321,East Zone,New
+ORD1187,2024-02-20,CUST202,Pizza Planet,Pizza,38,18,4.8,48,Debit Card,763,West Zone,Repeat
+ORD1188,2024-02-13,CUST295,Dragon Wok,Burgers,15,40,2.5,74,Credit Card,358,East Zone,New
+ORD1189,2024-01-24,CUST105,Healthy Bite,Biryani,34,43,3.9,72,Debit Card,503,East Zone,Repeat
+ORD1190,2024-03-19,CUST208,Pizza Planet,Biryani,10,59,4.4,74,UPI,620,West Zone,New
+ORD1191,2024-02-28,CUST215,Dragon Wok,Chinese,38,48,3.1,51,Cash on Delivery,265,East Zone,New
+ORD1192,2024-02-01,CUST193,Dragon Wok,South Indian,14,37,3.0,70,Debit Card,413,East Zone,Repeat
+ORD1193,2024-03-28,CUST146,Burger Town,Burgers,36,51,2.7,63,UPI,811,South Zone,New
+ORD1194,2024-02-21,CUST198,Spice Hub,Healthy Bowl,32,25,3.3,37,UPI,591,Central,New
+ORD1195,2024-03-02,CUST154,Spice Hub,Healthy Bowl,10,20,3.9,25,Credit Card,697,Central,Repeat
+ORD1196,2024-02-27,CUST267,Biryani House,Pizza,39,32,2.8,37,Credit Card,602,South Zone,New
+ORD1197,2024-02-21,CUST151,Burger Town,Burgers,13,35,3.4,38,Debit Card,626,West Zone,Repeat
+ORD1198,2024-01-12,CUST243,Dragon Wok,Healthy Bowl,31,56,2.5,41,Cash on Delivery,436,North Zone,New
+ORD1199,2024-02-08,CUST112,Healthy Bite,Pizza,11,50,4.5,56,UPI,452,North Zone,Repeat
+ORD1200,2024-01-02,CUST213,Spice Hub,South Indian,19,55,2.8,51,Debit Card,460,North Zone,New
+ORD1201,2024-01-03,CUST223,Dragon Wok,Pizza,14,52,3.2,75,UPI,357,South Zone,New
+ORD1202,2024-02-25,CUST205,Spice Hub,Healthy Bowl,36,48,2.5,60,UPI,767,South Zone,Repeat
+ORD1203,2024-03-21,CUST257,Spice Hub,Chinese,19,31,3.6,78,Cash on Delivery,595,East Zone,Repeat
+ORD1204,2024-02-28,CUST246,Spice Hub,Chinese,10,51,4.6,22,Cash on Delivery,819,North Zone,New
+ORD1205,2024-01-02,CUST244,Healthy Bite,Chinese,31,39,3.5,47,Debit Card,782,West Zone,New
+ORD1206,2024-01-02,CUST219,Burger Town,Healthy Bowl,15,52,2.9,29,Cash on Delivery,204,West Zone,Repeat
+ORD1207,2024-02-23,CUST162,Healthy Bite,Chinese,22,26,4.4,70,Cash on Delivery,161,North Zone,New
+ORD1208,2024-03-27,CUST118,Pizza Planet,Burgers,24,37,4.5,54,Debit Card,806,North Zone,Repeat
+ORD1209,2024-01-01,CUST191,Dragon Wok,South Indian,13,56,2.9,48,Cash on Delivery,549,North Zone,Repeat
+ORD1210,2024-01-19,CUST157,Burger Town,Pizza,22,36,4.4,73,Credit Card,797,South Zone,New
+ORD1211,2024-01-02,CUST282,Burger Town,Pizza,33,35,4.9,34,UPI,664,South Zone,New
+ORD1212,2024-02-22,CUST189,Burger Town,Healthy Bowl,29,41,2.9,52,UPI,805,South Zone,Repeat
+ORD1213,2024-02-13,CUST216,Burger Town,Chinese,33,45,4.4,26,UPI,691,Central,New
+ORD1214,2024-03-30,CUST161,Healthy Bite,Chinese,24,20,4.3,31,UPI,386,West Zone,New
+ORD1215,2024-02-01,CUST122,Burger Town,Biryani,38,41,3.7,68,Debit Card,428,West Zone,Repeat
+ORD1216,2024-03-10,CUST226,Biryani House,South Indian,17,54,2.6,49,UPI,497,East Zone,New
+ORD1217,2024-02-01,CUST236,Dragon Wok,Burgers,14,48,2.7,40,UPI,776,South Zone,Repeat
+ORD1218,2024-03-08,CUST239,Burger Town,Pizza,38,26,4.6,50,UPI,253,Central,New
+ORD1219,2024-02-24,CUST228,Dragon Wok,Biryani,24,59,5.0,77,UPI,779,Central,New
+ORD1220,2024-03-15,CUST157,Biryani House,Biryani,13,21,4.2,43,Credit Card,666,West Zone,New
+ORD1221,2024-02-25,CUST221,Biryani House,Healthy Bowl,21,24,3.6,39,UPI,397,South Zone,New
+ORD1222,2024-01-17,CUST100,Dragon Wok,Pizza,22,59,4.1,56,Credit Card,513,East Zone,New
+ORD1223,2024-02-07,CUST133,Spice Hub,Healthy Bowl,11,31,4.0,23,Debit Card,470,South Zone,New
+ORD1224,2024-01-24,CUST195,Pizza Planet,Burgers,36,40,3.5,47,Cash on Delivery,782,North Zone,Repeat
+ORD1225,2024-03-09,CUST225,Spice Hub,Biryani,28,35,2.7,63,UPI,435,South Zone,New
+ORD1226,2024-03-10,CUST217,Spice Hub,Biryani,28,42,4.6,39,Cash on Delivery,298,North Zone,New
+ORD1227,2024-03-26,CUST147,Healthy Bite,South Indian,13,16,3.4,79,Cash on Delivery,233,North Zone,New
+ORD1228,2024-01-11,CUST188,Spice Hub,Burgers,13,57,4.5,43,Debit Card,555,East Zone,New
+ORD1229,2024-01-16,CUST216,Burger Town,Biryani,35,15,3.1,69,Cash on Delivery,605,West Zone,New
+ORD1230,2024-03-13,CUST228,Healthy Bite,Burgers,20,50,2.5,68,Credit Card,892,South Zone,New
+ORD1231,2024-02-28,CUST115,Healthy Bite,Pizza,36,40,2.9,70,Cash on Delivery,310,North Zone,New
+ORD1232,2024-03-10,CUST288,Biryani House,Chinese,14,43,3.7,51,Cash on Delivery,609,South Zone,New
+ORD1233,2024-03-20,CUST291,Spice Hub,Biryani,29,35,4.9,60,Cash on Delivery,699,West Zone,New
+ORD1234,2024-01-03,CUST290,Biryani House,South Indian,20,25,2.8,55,UPI,649,West Zone,Repeat
+ORD1235,2024-01-20,CUST168,Dragon Wok,Pizza,39,54,4.6,77,UPI,887,Central,New
+ORD1236,2024-02-28,CUST121,Pizza Planet,Burgers,19,25,3.8,72,Credit Card,658,West Zone,New
+ORD1237,2024-02-05,CUST192,Healthy Bite,Healthy Bowl,17,50,4.6,53,Credit Card,803,East Zone,Repeat
+ORD1238,2024-01-19,CUST294,Dragon Wok,Pizza,15,53,3.2,55,UPI,630,North Zone,New
+ORD1239,2024-03-30,CUST175,Dragon Wok,Biryani,15,54,4.6,21,Credit Card,812,Central,Repeat
+ORD1240,2024-03-07,CUST253,Burger Town,Burgers,17,49,4.4,34,UPI,263,East Zone,New
+ORD1241,2024-01-19,CUST243,Pizza Planet,Chinese,32,48,3.1,53,Debit Card,898,South Zone,New
+ORD1242,2024-01-20,CUST278,Dragon Wok,Pizza,24,38,2.8,55,Cash on Delivery,727,North Zone,New
+ORD1243,2024-03-11,CUST185,Dragon Wok,Biryani,35,36,4.7,25,Cash on Delivery,510,West Zone,New
+ORD1244,2024-02-21,CUST284,Pizza Planet,South Indian,23,19,4.9,58,Credit Card,490,North Zone,Repeat
+ORD1245,2024-02-02,CUST128,Pizza Planet,Healthy Bowl,20,47,2.6,61,UPI,598,South Zone,New
+ORD1246,2024-02-09,CUST168,Dragon Wok,Burgers,21,50,4.3,70,UPI,329,Central,Repeat
+ORD1247,2024-02-08,CUST146,Pizza Planet,Pizza,35,34,4.8,70,Credit Card,851,Central,New
+ORD1248,2024-03-22,CUST193,Dragon Wok,Pizza,22,33,4.6,77,UPI,556,Central,New
+ORD1249,2024-01-01,CUST289,Dragon Wok,Chinese,17,49,4.9,73,Debit Card,815,West Zone,New
