@@ -1,0 +1,23 @@
+# Orders by payment method
+df['Mode_of_Payment'].value_counts()
+print(df['Mode_of_Payment'].value_counts())
+
+#Total revenue, orders, average delivery time
+total_orders = df['Order_ID'].nunique()
+total_revenue = df['Order_Amount'].sum()
+avg_delivery_time = df['Delivery_Time_mins'].mean()
+
+print(total_orders, total_revenue, avg_delivery_time)
+
+#order by food category
+
+orders_by_category = df['Food_Category'].value_counts()
+print(orders_by_category)
+
+#Revenue by date
+revenue_by_date = df.groupby('Order_Date')['Order_Amount'].sum()
+print(revenue_by_date.head())
+
+# Ratings distribution
+rating_by_location = df.groupby(['Location', 'Delivery_Person_Rating'])['Order_ID'].count()
+print(rating_by_location)
